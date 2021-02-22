@@ -1,3 +1,5 @@
+#!/bin/python 
+
 import numpy
 import socket
 import time
